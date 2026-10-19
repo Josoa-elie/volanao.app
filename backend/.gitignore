@@ -4,8 +4,9 @@
 !requirements.txt
 !.env.example
 !build.sh
-!api/
-!config/
+!manage.py
+!api/**
+!config/**
 
 # Python
 venv/
